@@ -12,9 +12,8 @@ This project aims to analyze NBA player statistics to predict the Most Valuable 
 ---
 
 ### Tools and Technologies
-- **Data Analysis:** Python, R
-- **Data Visualization:** Tableau, Power BI
-- **Programming:** SQL for data querying
+- **Data Analysis:** R-Studio
+
 
 ---
 
