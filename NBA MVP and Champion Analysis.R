@@ -1,5 +1,5 @@
 #Data Wrangling Project - MVP & Champion data
-#Weston Rauschuber and Colin Behr
+#Weston Rauschuber
 rm(list=ls())
 
 ## INSTALL ALL PACKAGES ##
